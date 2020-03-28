@@ -1,0 +1,171 @@
+/***************************TAG INDICATORS************************/
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1  {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    line-height: 2;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-weight: normal;
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+
+p {
+    line-height: 2;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+} 
+
+div {
+    background-color: #f4f4f4;
+}
+
+a {
+    color: #11999e;
+}
+
+p {
+    line-height: 2;
+
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+
+/***************************CLASS INDICATORS************************/
+.top-container {
+    background-color: #f4f4f4;
+    position: relative;
+    padding-top: 100px;
+}
+
+.system {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.contact-message {
+    width: 30%;
+    margin: 40px auto 60px;
+}
+
+.middle-container {
+    margin: 100px 0;
+   
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.guitar-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chef-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+.classname {
+	-moz-box-shadow:inset 0px 1px 0px 0px #8f1a0d;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8f1a0d;
+	box-shadow:inset 0px 1px 0px 0px #8f1a0d;
+	background-color:#11999e;
+	-webkit-border-top-left-radius:3px;
+	-moz-border-radius-topleft:3px;
+	border-top-left-radius:3px;
+	-webkit-border-top-right-radius:3px;
+	-moz-border-radius-topright:3px;
+	border-top-right-radius:3px;
+	-webkit-border-bottom-right-radius:3px;
+	-moz-border-radius-bottomright:3px;
+	border-bottom-right-radius:3px;
+	-webkit-border-bottom-left-radius:3px;
+	-moz-border-radius-bottomleft:3px;
+	border-bottom-left-radius:3px;
+text-indent:0;
+	border:1px solid #54381e;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:200px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #bd726f;
+}.classname:hover {
+	background-color:#11cdd4;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+/***************************ID INDICATORS************************/
